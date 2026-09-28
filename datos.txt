@@ -4,3 +4,4 @@ edad 25
 joel0835@homail.com
 www.devfullstack.com
 666777888
+python,SQL,JavaScript
