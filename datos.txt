@@ -1,7 +1,7 @@
 joel rodriguez reyes gi
 edad 25
-8 de diciembre del 2000
-joel0835@homail.com
+5 del mayo del 2030
+fullstack@dev.com
 www.devfullstack.com
 666777888
 python,SQL,JavaScript
